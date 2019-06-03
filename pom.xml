@@ -52,14 +52,14 @@
         <dependency>
             <groupId>info.cukes</groupId>
             <artifactId>cucumber-java</artifactId>
-            <version>1.2.5</version>
+            <version>1.2.7</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-junit -->
         <dependency>
             <groupId>info.cukes</groupId>
             <artifactId>cucumber-junit</artifactId>
-            <version>1.2.5</version>
+            <version>1.2.7</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/junit/junit -->
         <dependency>
@@ -88,7 +88,7 @@
         <dependency>
             <groupId>info.cukes</groupId>
             <artifactId>cucumber-testng</artifactId>
-            <version>1.2.5</version>
+            <version>1.2.7</version>
         </dependency>
 
 
